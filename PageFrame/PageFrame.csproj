@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\GeneralFrame1\assets\css\font-awesome.min.css" />
+    <None Include="wwwroot\GeneralFrame1\assets\css\main.css" />
+    <None Include="wwwroot\GeneralFrame1\assets\fonts\fontawesome-webfont.eot" />
+    <None Include="wwwroot\GeneralFrame1\assets\fonts\fontawesome-webfont.svg" />
+    <None Include="wwwroot\GeneralFrame1\assets\fonts\fontawesome-webfont.ttf" />
+    <None Include="wwwroot\GeneralFrame1\assets\fonts\fontawesome-webfont.woff" />
+    <None Include="wwwroot\GeneralFrame1\assets\fonts\fontawesome-webfont.woff2" />
+    <None Include="wwwroot\GeneralFrame1\assets\fonts\FontAwesome.otf" />
+    <None Include="wwwroot\GeneralFrame1\assets\js\jquery.min.js" />
+    <None Include="wwwroot\GeneralFrame1\assets\js\main.js" />
+    <None Include="wwwroot\GeneralFrame1\assets\js\skel.min.js" />
+    <None Include="wwwroot\GeneralFrame1\assets\js\util.js" />
+    <None Include="wwwroot\GeneralFrame1\images\banner.jpg" />
+    <None Include="wwwroot\GeneralFrame1\images\pic01.jpg" />
+    <None Include="wwwroot\GeneralFrame1\images\pic02.jpg" />
+  </ItemGroup>
+
+</Project>
