@@ -33,6 +33,10 @@ namespace PageFrame.Controllers
             return View();
         }
 
+        public IActionResult DashboardFrame1()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
