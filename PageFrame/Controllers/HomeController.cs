@@ -37,6 +37,11 @@ namespace PageFrame.Controllers
         {
             return View();
         }
+
+        public IActionResult LoginFrame2()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();
